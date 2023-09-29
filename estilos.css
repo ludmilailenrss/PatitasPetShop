@@ -1,0 +1,82 @@
+ 
+.logo {
+    max-width: 100px; 
+    height: auto;
+}
+.nabar{
+    width: 800%!important;
+    font-family: 'Roboto', sans-serif!important;
+}
+
+
+.bg-danger{
+    background-color: #f4c382!important;
+    
+}
+
+.active .nav-link{
+    color: #dd1a1a!important;
+}
+
+.menu{
+    color: #dd1a1a!important;
+}
+.menu:hover{
+    color: #000000!important;
+}
+
+/* casilla de busqueda */
+.form-control {
+    width: 400px!important;
+    height: 50px;
+    margin-left: 100px; 
+    border-radius: 25px; 
+    margin-bottom: 10px;
+}
+
+.btn-outline-success {
+    border-color: transparent!important;
+    border-radius: 20px; 
+    padding: 5px 10px; 
+    margin-bottom: 30px;
+}
+.btn-outline-success:hover {
+    color: #000000; 
+    background-color: transparent!important; 
+    border-color: transparent!important; 
+}
+/* lupa */
+.btn-outline-success img {
+    width: 40px; 
+    height: 40px; 
+    vertical-align: middle; 
+    margin-bottom: 10px;
+    border-color: transparent!important; 
+    border-style: none !important;
+}
+.btn-outline-success:active,
+.btn-outline-success:focus {
+    color: #d8a35d; 
+    background-color: transparent!important; 
+    border-color: transparent!important; 
+    outline: none!important; 
+}
+
+.nav-link img {
+    width: 24px; 
+    height: 24px; 
+    margin-left: 10px; 
+}
+/*puntito pedorro*/
+.nav-item {
+    list-style-type: none;
+}
+
+.nav-item-dropdown {
+    margin-left: 100px;
+
+}
+.slide{
+    margin-top: 4.6rem;
+}
+
